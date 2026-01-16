@@ -48,3 +48,18 @@ Open `Project.gba` in an emulator.
 ## Credits
 - Sprites: based on assets from OpenGameArt; all sprites were heavily edited/kitbashed by me.
 - Other art/audio: created or edited by me for this project.
+
+## Gameplay Screenshots
+
+### Start Screen
+![Start Screen](gameplay_img/start_screenshot.png)
+
+### Instruction Screen
+![Instruction Screen](gameplay_img/istruction_screenshot.png)
+
+### Gameplay
+![Gameplay](gameplay_img/game_screenshot.png)
+![Gameplay 2](gameplay_img/game2_screenshot.png)
+
+### Game Over
+![Game Over](gameplay_img/gameover_screenshot.png)
