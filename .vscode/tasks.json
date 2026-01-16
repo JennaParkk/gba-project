@@ -6,9 +6,7 @@
         {
             "label": "build run",
             "type": "shell",
-            "command": "open /Users/jennapark/Desktop/mGBA_project/mGBA.app ./Project.gba",
-            // add the mGBA.app exact path to the above line,
-            // in between "open" and "./Project.gba"!
+            "command": "open -a /Users/jennapark/Desktop/projects/mGBA_project/mGBA.app \"${workspaceFolder}/Project.gba\"",
             "problemMatcher": [],
 
             "dependsOn": ["build"],
