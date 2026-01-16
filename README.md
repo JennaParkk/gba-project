@@ -1,5 +1,7 @@
 # Axe-pedition: Skybound
 
+![Gameplay](gameplay_img/game_screenshot.png)
+
 A Game Boy Advance action platformer built in C with tilemap collision, sprite-based combat, and audio playback.
 Built as a course project focused on low-level graphics/sound and performance constraints.
 Course: CS 2261 (Media Device Architecture), Fall 2023.
@@ -51,15 +53,7 @@ Open `Project.gba` in an emulator.
 
 ## Gameplay Screenshots
 
-### Start Screen
 ![Start Screen](gameplay_img/start_screenshot.png)
-
-### Instruction Screen
 ![Instruction Screen](gameplay_img/istruction_screenshot.png)
-
-### Gameplay
-![Gameplay](gameplay_img/game_screenshot.png)
 ![Gameplay 2](gameplay_img/game2_screenshot.png)
-
-### Game Over
 ![Game Over](gameplay_img/gameover_screenshot.png)
